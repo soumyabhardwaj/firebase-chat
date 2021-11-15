@@ -108,7 +108,7 @@ function App() {
             React FireChat
           </h2>
           <p className="mb-8 text-lg text-center">
-            The easiest way to chat with people all around the world.
+            The easiest way to chat with your peers.
           </p>
           <button
             onClick={signInWithGoogle}
